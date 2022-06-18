@@ -1,8 +1,7 @@
-name: JS Actions
+name: JS Action
 
 on:
   pull_request:
-    types: [labeled]
 
 jobs:
   action:
